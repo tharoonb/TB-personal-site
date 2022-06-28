@@ -14,7 +14,8 @@ function App() {
           A little about me:
           <div className="blurb">
             My name is Tharoon Balaji, a student currently studying Finance and Information Systems, with a minor in Spanish. I am a student Honors Finance Program as well, while also being involved in the Delta Sigma Pi
-            Nu Professional Business Fraternity serving as both an active brother and the Director of Alumni Database. I 
+            Nu Professional Business Fraternity serving as both an active brother and the Director of Alumni Database. I am also president and founder of the South Asian Fisher Organization within OSU, to provide South Asian 
+            Students a platform and community to grow together in an underrepresented field. 
           </div>
         </div>
         <div className="edu">
